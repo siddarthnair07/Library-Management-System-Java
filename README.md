@@ -18,6 +18,6 @@ Eclipse IDE can be downloaded for [Windows](https://www.eclipse.org/downloads/) 
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 ## Contributing 
 - [Siddarth N S]
-- [LinkedIN] (https://www.linkedin.com/in/siddarthnair07)
+- [Linkedin] (https://www.linkedin.com/in/siddarthnair07)
 - [Github](https://github.com/siddarthnair07)
 
